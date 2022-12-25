@@ -13,4 +13,14 @@ public class B7 {
     deneme branch'inde çakışma oluşturmak için bu satırı yazdım
      */
 
+
+    public static void main(String[] args) {
+        System.out.println("deneme");
+    }
+
+
+
+
+
+
 }
