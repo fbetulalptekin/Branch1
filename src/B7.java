@@ -25,12 +25,8 @@ public class B7 {
         düzelttikten sonra mutlaka versiyon oluşturmalıyız
  */
 
-    /*
-<<<<<<< HEAD
-    main branch'te çakışma oluşturmak için bu satırı yazdım
-=======
-    deneme branch'inde çakışma oluşturmak için bu satırı yazdım
->>>>>>> deneme
-     */
+    public static void main(String[] args) {
+        System.out.println("main");
+    }
 
 }
