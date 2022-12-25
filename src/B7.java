@@ -9,5 +9,8 @@ public class B7 {
         ama bazen ister istemez çakışmalar olabilir
 
          */
+    /*
+    deneme branch'inde çakışma oluşturmak için bu satırı yazdım
+     */
 
 }
