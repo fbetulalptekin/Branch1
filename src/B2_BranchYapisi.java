@@ -1,4 +1,4 @@
-public class B3 {
+public class B2_BranchYapisi {
 
     public static void main(String[] args) {
 

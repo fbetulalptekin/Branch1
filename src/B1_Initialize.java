@@ -1,4 +1,4 @@
-public class B2 {
+public class B1_Initialize {
     public static void main(String[] args) {
         /*
         Temelde git ve gitHub icin 3 asamadan bahsedebiliriz:
